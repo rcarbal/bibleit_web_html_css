@@ -1,0 +1,22 @@
+{
+  "name": "html_css",
+  "version": "1.0.0",
+  "description": "m\u001b[3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcarbal/bibleit_web_html_css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcarbal/bibleit_web_html_css/issues"
+  },
+  "homepage": "https://github.com/rcarbal/bibleit_web_html_css#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
